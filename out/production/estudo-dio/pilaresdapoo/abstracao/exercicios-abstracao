@@ -1,0 +1,26 @@
+1)Conta Bancária
+  Descrição: Crie uma classe abstrata ContaBancaria com métodos abstratos depositar e sacar.
+  Crie classes ContaCorrente e ContaPoupanca que estendam ContaBancaria e implementem esses métodos.
+
+  Crie a classe abstrata ContaBancaria com métodos abstratos depositar e sacar.
+  Crie as classes ContaCorrente e ContaPoupanca que estendam ContaBancaria.
+  Implemente os métodos depositar e sacar para cada uma das classes concretas.
+
+//---------------------------------------------------------------------------------//
+2) Funcionário
+  Descrição: Crie uma classe abstrata Funcionario com métodos abstratos calcularSalario.
+  Crie classes FuncionarioAssalariado e FuncionarioHorista que estendam Funcionario e implementem esse método.
+
+  Crie a classe abstrata Funcionario com um método abstrato calcularSalario.
+  Crie as classes FuncionarioAssalariado e FuncionarioHorista que estendam Funcionario.
+  Implemente o método calcularSalario para cada uma das classes concretas.
+
+ //---------------------------------------------------------------------------------//
+3)Biblioteca
+  Descrição: Crie uma classe abstrata ItemBiblioteca com métodos abstratos emprestar e devolver.
+  Crie classes Livro e Revista que estendam ItemBiblioteca e implementem esses métodos.
+
+  Crie a classe abstrata ItemBiblioteca com métodos abstratos emprestar e devolver.
+  Crie as classes Livro e Revista que estendam ItemBiblioteca.
+  Implemente os métodos emprestar e devolver para cada uma das classes concretas.
+

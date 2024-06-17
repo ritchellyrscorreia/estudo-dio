@@ -1,0 +1,29 @@
+1) Conta Bancária
+Descrição: Crie uma classe ContaBancaria com os seguintes atributos privados:
+numeroDaConta (int), saldo (double) e titular (String).
+Implemente métodos getters e setters para cada atributo e um método para depositar e sacar dinheiro.
+
+Crie a classe ContaBancaria com os atributos privados.
+Implemente métodos getters e setters para os atributos.
+Implemente um método depositar que aumenta o saldo.
+Implemente um método sacar que diminui o saldo, desde que haja saldo suficiente.
+
+//---------------------------------------------------------------------------------------------------------//
+2) Produto
+Descrição: Crie uma classe Produto com os seguintes atributos privados:
+id (int), nome (String), preco (double) e quantidade (int).
+Implemente métodos getters e setters para cada atributo e um método para calcular o valor total do estoque.
+
+Crie a classe Produto com os atributos privados.
+Implemente métodos getters e setters para os atributos.
+Implemente um método calcularValorEstoque que retorna o valor total do estoque.
+
+//---------------------------------------------------------------------------------------------------------//
+3) Aluno
+Descrição: Crie uma classe Aluno com os seguintes atributos privados:
+matricula (int), nome (String), e nota (double).
+ Implemente métodos getters e setters para cada atributo e um método que retorna se o aluno está aprovado (nota >= 7).
+
+Crie a classe Aluno com os atributos privados.
+Implemente métodos getters e setters para os atributos.
+Implemente um método isAprovado que retorna true se a nota for maior ou igual a 7, e false caso contrário.

@@ -1,0 +1,9 @@
+Encapsulamento - Nem tudo que eu faço todos precisa saber. Grande parte do nosso algoritmo pode ser
+distribuido em metodos com finalidade especificas que complementa uma ação na aplicação.
+
+Herança - Caracteristicas e comportamentos comuns podem ser elevados e compartilhados atraves de uma
+hierarquia de objetos.
+
+Abstração - É a indisponibilidade para determinar a lógica de um ou vários comportamentos de um objeto.
+
+Polimorfismo - São as inúmeras maneiras de se realizar uma mesma ação.

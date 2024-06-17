@@ -1,0 +1,48 @@
+1) Formas Geométricas
+Descrição: Crie uma hierarquia de classes para formas geométricas.
+As formas devem incluir Círculo, Retângulo e Triângulo.
+Todas devem herdar de uma classe base Forma e implementar um método calcularArea.
+
+Classe base Forma:
+Atributos: Nenhum
+Métodos:calcularArea(): Retorna um double.
+
+Classe Circulo:
+Atributos: raio (double)
+Métodos:
+Construtor para inicializar o raio.
+Implementação de calcularArea que retorna a área do círculo.
+
+Classe Retângulo:
+Atributos: largura (double), altura (double)
+Métodos:
+Construtor para inicializar a largura e a altura.
+Implementação de calcularArea que retorna a área do retângulo.
+
+Classe Triângulo:
+Atributos: base (double), altura (double)
+Métodos:
+Construtor para inicializar a base e a altura.
+Implementação de calcularArea que retorna a área do triângulo.
+
+//---------------------------------------------------------------------------------//
+2) Instrumentos Musicais
+Descrição: Crie uma hierarquia de classes para instrumentos musicais.
+Os instrumentos devem incluir Violão, Piano e Flauta.
+Todos devem herdar de uma classe base Instrumento e implementar um método tocar.
+
+Classe base Instrumento:
+Métodos:
+tocar(): Método abstrato que imprime uma mensagem indicando que o instrumento está sendo tocado.
+
+Classe Violão:
+Métodos:
+Implementação de tocar que imprime "Tocando violão".
+
+Classe Piano:
+Métodos:
+Implementação de tocar que imprime "Tocando piano".
+
+Classe Flauta:
+Métodos:
+Implementação de tocar que imprime "Tocando flauta".

@@ -1,0 +1,18 @@
+1) Interface Animal
+Descrição: Crie uma interface Animal com métodos emitirSom e movimentar.
+Em seguida, crie classes Cachorro, Gato e Pato que implementem a interface Animal e definam o comportamento
+desses métodos para cada tipo de animal.
+
+Crie a interface Animal com os métodos emitirSom e movimentar.
+Implemente a interface nas classes Cachorro, Gato e Pato, definindo o comportamento dos métodos
+para cada tipo de animal.
+
+//---------------------------------------------------------------------------------------------------------//
+2)Interface Ordenável
+  Descrição: Crie uma interface Ordenavel com o método ordenar.
+  Em seguida, crie classes Vetor e Lista que implementem a interface Ordenavel e definam o comportamento do
+   método ordenar para cada tipo de estrutura de dados.
+
+  Crie a interface Ordenavel com o método ordenar.
+  Implemente a interface nas classes Vetor e Lista, definindo o comportamento do método ordenar para cada
+  tipo de estrutura de dados.
